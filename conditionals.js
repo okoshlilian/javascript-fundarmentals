@@ -37,19 +37,19 @@ if(password.length >= 6){
 let age =20;
 console.log(age=== 20 ?"correct age" : "wrong age");
 //switch staatements
-switch (days) {
-    case 1:"monday"
-        break,
-} case 2:"tuesday"
-break,
-case :3"wednesday"
-break,
-case 4"thursday"
-break,
-case 5:"friday"
-break,
-case 6:"saturday"
-break,
-case 7:"sunday"
-break,
+// switch (days)
+//     case 1:"monday"
+//         break,
+//  case 2:"tuesday"
+// break,
+// case :3"wednesday"
+// break,
+// case 4"thursday"
+// break,
+// case 5:"friday"
+// break,
+// case 6:"saturday"
+// break,
+// case 7:"sunday"
+// break,
 
